@@ -9,12 +9,10 @@ export default function Home() {
         <title>KahitAnoBa</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Nathaniel. I am a Software Engineer.</p>
+        <p>Hello, I'm Nathaniel. I am a Software Engineer. I am also a Student.</p>
         <p>
           This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
-          <br></br>
-          <img src="https://media1.tenor.com/m/gnZcXcBonfUAAAAC/you-are-my-sunshine-lebron.gif" alt="You are my sunshine" />
         </p>
       </section>
     </Layout>
